@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://twitter.com/rahematjkd" target="blank"><img src="https://img.shields.io/twitter/follow/rahematjkd?logo=twitter&style=for-the-badge" alt="rahematjkd" /></a> </p>
 
 - 🌱 I’m currently learning **DSA using CPP by Shradha Khapra Ma'am**
+ and **Python Full Stack by Mr. Shashank B G at PySpiders**
 
 - 💬 Ask me about **DSA, SDLC, Agile**
 
